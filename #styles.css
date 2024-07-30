@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(204, 240, 228);
+}
+h1{
+    color: rgb(250, 208, 157);
+   width: 300px;
+}
+input{
+    border-image-width: 20px;
+}
